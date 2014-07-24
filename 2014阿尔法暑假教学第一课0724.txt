@@ -1,0 +1,14 @@
+1.复习上节课所学知识及操作，用git shell结合node安装一个网站，体验新技术。
+2.学习前端工程师知识结构，知识脉络。
+参考资料：
+（1）http://ecomfe.duapp.com/
+（2）http://html5ify.com/fks/#index_前端开发知识结构
+3.学习文章《说说css学习中的瓶颈》
+http://www.zhangxinxu.com/wordpress/2012/07/bottleneck-css-study/
+4.死机，聊天，卖萌穿插其中，不亦乐乎。
+
+Home work：
+（1）开始编写美丽说首页代码
+（2）学习博文，学习自己感兴趣的技术或领域。
+                                                               ---- Author P r 有错别字吗?错，通假字！！！
+                                                               ---- Github地址：https://github.com/IndexXuan/Alpha_2014/
